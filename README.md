@@ -1,7 +1,5 @@
 <h1 align="center">Web Scrapping</h1>
 
-[![Watch on YouTube](https://img.youtube.com/vi/wCCC41lvMrU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wCCC41lvMrU)
-
 
 # Introduction to HTML Parsing and HTTP Requests
 
@@ -52,6 +50,8 @@ else:
 - `requests.get(url)`: Sends a GET request to the specified URL.
 - `response.status_code`: Checks the HTTP status code.
 - `response.text`: Contains the HTML content of the page.
+## Please follow the link below to watch the entire video
+  [![Watch on YouTube](https://img.youtube.com/vi/wCCC41lvMrU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wCCC41lvMrU)
 
 ## 2. HTML Parsing with BeautifulSoup
 
