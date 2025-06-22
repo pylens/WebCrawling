@@ -1,7 +1,7 @@
-<h1 align="center">Web Scrapping: PART-1</h1>
+<h1 align="center">Web Scrapping</h1>
 
 
-# Introduction to HTML Parsing and HTTP Requests
+# Introduction to HTML Parsing and HTTP Requests - PART-1
 
 
 This document serves as an introduction to web crawling, covering the basics of making HTTP requests and parsing HTML using Python. We will use the `requests` library to fetch web pages and `BeautifulSoup` to parse the HTML content.
