@@ -1,5 +1,8 @@
 <h1 align="center">Web Scrapping</h1>
-[▶️ Watch the video on YouTube](https://youtu.be/wCCC41lvMrU?si=s8s9JpAz4PAIxUDZ)
+
+[![Watch on YouTube](https://img.youtube.com/vi/wCCC41lvMrU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wCCC41lvMrU)
+
+
 # Introduction to HTML Parsing and HTTP Requests
 
 This document serves as an introduction to web crawling, covering the basics of making HTTP requests and parsing HTML using Python. We will use the `requests` library to fetch web pages and `BeautifulSoup` to parse the HTML content.
